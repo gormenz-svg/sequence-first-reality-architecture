@@ -50,4 +50,23 @@ This table illustrates how SFRA reinterprets fundamental physical concepts throu
 | **Dark Matter** | Unknown particle | Background system processes (The Hidden Stack) |
 | **Entropy** | Increase in disorder | Decay of sequence coherence and algorithmic synchronization |
 
+
+## Running the Simulation
+
+To visualize the **Computational Lag** and **Sequence Density** in real-time, you can run our Python-based diagnostic tool:
+
+### Prerequisites:
+* Python 3.x
+* Libraries: `pip install numpy matplotlib`
+
+### Execution:
+```bash
+python3 sfra_sim.py
+
+This simulation renders a dual-window interface:
+
+Left: A heatmap of Sequence Density Clusters.
+
+Right: Real-time System Clock Rate (Hz) telemetry.
+```
 > *Note: The specific mapping and logic of the 11 Invariants are intentionally omitted to preserve system integrity.*
