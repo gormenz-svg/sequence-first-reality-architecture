@@ -10,11 +10,13 @@ The Video Game Analogy: Imagine a high-end simulation. The Sequence is the CPU p
 2. **Computational Gravity:** Gravity is not a force but the result of increased sequence density (sampling rate) in high-data clusters.
 3. **The Rendering Interface:** Space-Time is a human-centric UI designed to perceive discrete sequences as a continuous fabric.
 
-## System Layers
-The architecture is governed by a proprietary set of **11 System Invariants** (Core Logic), organized into three functional tiers:
-* **The Volitional Tier:** Initiation and direction of sequences.
-* **The Structural Tier:** Management of constraints, balance, and invariants.
-* **The Realization Tier:** Stability, practical execution, and feedback loops.
+## System Architecture Layers
+
+The framework operates through three distinct logical tiers, ensuring stability and autonomy of the sequence:
+
+* **Volitional Tier (Input):** Processes primary intents and determines the vector of sequence deployment. It acts as the initial "why" and "where" of the process.
+* **Structural Tier (Processing):** The level of logical constraints. It maintains the critical balance between system expansion and structural integrity, preventing sequence collapse.
+* **Operational Tier (Output):** The interface of interaction with the environment. Responsible for practical execution, stability, and processing feedback loops from the "rendered" reality.
 
 ```mermaid
 graph TD
@@ -36,5 +38,16 @@ graph TD
     style D fill:#bbf,stroke:#333,stroke-width:2px
     style E fill:#bfb,stroke:#333,stroke-width:2px
 ```
+## "What it explains"
+## Phenomenon Comparison Table
+
+This table illustrates how SFRA reinterprets fundamental physical concepts through the lens of Sequence Primacy:
+
+| Phenomenon | Standard Physics Explanation | SFRA Explanation |
+| :--- | :--- | :--- |
+| **Gravity** | Spacetime Curvature | Local increase in Sequence Density (Computational load) |
+| **Time Dilation** | Relativistic effect | Computational lag due to high data processing density |
+| **Dark Matter** | Unknown particle | Background system processes (The Hidden Stack) |
+| **Entropy** | Increase in disorder | Decay of sequence coherence and algorithmic synchronization |
 
 > *Note: The specific mapping and logic of the 11 Invariants are intentionally omitted to preserve system integrity.*
