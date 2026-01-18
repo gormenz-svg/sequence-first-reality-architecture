@@ -55,7 +55,7 @@ This table illustrates how SFRA reinterprets fundamental physical concepts throu
 
 To visualize the **Computational Lag** and **Sequence Density** in real-time, you can run our Python-based diagnostic tool:
 
-![Uploading sm.png…]()
+<img width="1039" height="848" alt="sm" src="https://github.com/user-attachments/assets/689286a0-245d-4a84-b200-1fb674cffd3f" />
 
 
 ### Prerequisites:
