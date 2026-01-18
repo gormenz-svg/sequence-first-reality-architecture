@@ -16,4 +16,25 @@ The architecture is governed by a proprietary set of **11 System Invariants** (C
 * **The Structural Tier:** Management of constraints, balance, and invariants.
 * **The Realization Tier:** Stability, practical execution, and feedback loops.
 
+```mermaid
+graph TD
+    A[Absolute Potential] -->|Intentional Trigger| B(Volitional Tier)
+    B --> C{Sequence Generator}
+    C -->|Structural Constraints| D[Structural Tier]
+    D --> E(Operational Tier)
+    E -->|Rendering| F[Space-Time Interface]
+    F -->|Feedback Loop| B
+    
+    subgraph "The Black Box (11 Invariants)"
+    B
+    C
+    D
+    E
+    end
+    
+    style B fill:#f9f,stroke:#333,stroke-width:2px
+    style D fill:#bbf,stroke:#333,stroke-width:2px
+    style E fill:#bfb,stroke:#333,stroke-width:2px
+```
+
 > *Note: The specific mapping and logic of the 11 Invariants are intentionally omitted to preserve system integrity.*
