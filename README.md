@@ -73,3 +73,6 @@ Left: A heatmap of Sequence Density Clusters.
 Right: Real-time System Clock Rate (Hz) telemetry.
 ```
 > *Note: The specific mapping and logic of the 11 Invariants are intentionally omitted to preserve system integrity.*
+
+----
+Resonance 11 used
